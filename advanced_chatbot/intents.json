@@ -1,0 +1,40 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["hi", "hello", "hey", "good morning", "good evening"],
+      "responses": ["Hello! How can I help you?", "Hi there! What can I do for you?"]
+    },
+    {
+      "tag": "python",
+      "patterns": ["what is python", "explain python", "python programming"],
+      "responses": ["Python is a high-level programming language used for AI, automation, and web development."]
+    },
+    {
+      "tag": "nlp",
+      "patterns": ["what is nlp", "define natural language processing"],
+      "responses": ["Natural Language Processing enables computers to understand and process human language."]
+    },
+    {
+      "tag": "ai",
+      "patterns": ["what is ai", "define artificial intelligence"],
+      "responses": ["Artificial Intelligence is the simulation of human intelligence in machines."]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["bye", "exit", "quit"],
+      "responses": ["Goodbye!", "Have a great day!"]
+      "patterns": [
+  "hello",
+  "hi",
+  "hey",
+  "good morning",
+  "good evening",
+  "is anyone there",
+  "hey bot",
+  "hello chatbot"
+]
+
+    }
+  ]
+}
